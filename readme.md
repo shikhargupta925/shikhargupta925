@@ -1,26 +1,6 @@
 <div align="center">
   <img height="200" src="https://media.tenor.com/KUXIWC9D5_UAAAAi/my-hero-academia-boku-no-hero-academia.gif"  />
 </div>
-<div align="center">
-  <a href="https://www.linkedin.com/in/shikhargupta925/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
-
-###
-
-Hi, I'm Shikhar 👋  
-Frontend Engineer | React • JavaScript • Performance-minded UI
-
-- 💻 Working on scalable React applications
-- 🧠 Interested in performance optimization & clean architecture
-- ✍️ I also write poems & songs
-- 📚 Currently improving DSA & system design
-
-
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -66,8 +46,20 @@ Frontend Engineer | React • JavaScript • Performance-minded UI
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+Hi, I'm Shikhar 👋  
+Frontend Engineer | React • JavaScript • Performance-minded UI
+
+- 💻 Working on scalable React applications
+- 🧠 Interested in performance optimization & clean architecture
+- ✍️ I also write poems & songs
+- 📚 Currently improving DSA & system design
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shikhargupta925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shikhargupta925" height="30" width="40" /></a>
+<a href="https://instagram.com/usedmynahere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usedmynahere" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/shikhar_ded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shikhar_ded" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shikhargupta925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shikhargupta925" height="30" width="40" /></a>
+</p>
+
